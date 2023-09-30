@@ -12,6 +12,8 @@ python jxnu_wifi.py
 
 分支:深澜网页认证4.4可用
 
+修复版本贡献作者：@suifenpiao
+
 配置:
 
 使用前请安装依赖
